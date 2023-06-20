@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224463170773",
+    "project_id": "imagetotext-22fe6",
+    "storage_bucket": "imagetotext-22fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224463170773:android:a6aa2d594a8575b7b7065c",
+        "android_client_info": {
+          "package_name": "com.example.firstml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiw_k2b7Nq93JDn4IFWBd9XTtSgCplM8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
