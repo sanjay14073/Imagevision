@@ -1,6 +1,6 @@
 # firstml
 
-A new Flutter project.that uses Google ML Vision.Its a basic app to pick image and  the contents of the image are displayed in your screen
+A new Flutter project.that uses Google ML Vision.Its a basic app to pick image and  the contents of the image are displayed in your screen.
 
 ## Getting Started
 
